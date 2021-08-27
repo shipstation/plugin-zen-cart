@@ -1,3 +1,11 @@
+# Installation
+ <li>Upload the shipstation_zc.php file to your Zen Cart's root folder</li>
+ <li><a href="https://app.shipstation.com">Log into ShipStation</a></li>
+ <li>Click <b>Settings</b> on the main menu</li>
+ <li>Click <b>Stores</b></li>
+ <li>Click the <b>New Store</b> button and select <b>Zen Cart</b> from the drop down menu</li>
+ <li>Follow the remaining instructions on the ShipStation Zen Cart setup screen</li>
+
 # Overview
  [ShipStation](https://www.shipstation.com/)  leads the ecommerce world with our web-based software designed to make ecommerce retailers exceptionally efficient at processing, fulfilling, and shipping their orders from all the most popular marketplaces and shopping carts using all the top carriers.
 Save time and money with efficient shipping. Sync all your orders from Zen Cart and wherever you sell and start printing labels from all the major carriers with a few clicks.
